@@ -6,12 +6,19 @@ Welcome to SpaceVue, your window to the cosmos! SpaceVue is an innovative space 
 
 Table of Contents
 -Overview
+
 -Features
+
 -Getting Started
+
 -Dependencies
+
 -Usage
+
 -Fork the repository
+
 -Login details
+
 -About the project
 
 #Overview
